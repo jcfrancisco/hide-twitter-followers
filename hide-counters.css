@@ -1,0 +1,3 @@
+.module .stats a[data-nav=following], .module .stats a[data-nav=followers] {
+  display: none;
+}
