@@ -8,8 +8,7 @@
   "content_scripts": [
     {
       "matches": ["*://twitter.com/*"],
-      "css": ["hide-counters.css"],
-      "run_at": "document_end"
+      "css": ["hide-counters.css"]
     }
   ],
 
